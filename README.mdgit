@@ -1,0 +1,1 @@
+"# gym-app-for-my-students"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/DavyDevelops/gym-app-for-my-students.gitgit push -u origin main
